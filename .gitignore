@@ -38,3 +38,4 @@ settings_local.py
 
 # Mac OS specific files
 .DS_Store
+.vercel
